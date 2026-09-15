@@ -1,0 +1,6 @@
+C:/Users/Jason/Desktop/ASNEmbeddedRepo/c_board_repo/libraries/src/CAN_Core.c:26:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+C:/Users/Jason/Desktop/ASNEmbeddedRepo/c_board_repo/libraries/src/CAN_Core.c:40:6:_CAN_LinkLib	4
+C:/Users/Jason/Desktop/ASNEmbeddedRepo/c_board_repo/libraries/src/CAN_Core.c:58:6:CAN_Transmit	1
+C:/Users/Jason/Desktop/ASNEmbeddedRepo/c_board_repo/libraries/src/CAN_Core.c:68:6:CAN_Transmit_Ex	1
+C:/Users/Jason/Desktop/ASNEmbeddedRepo/c_board_repo/libraries/src/CAN_Core.c:80:6:CAN_Init	1
+C:/Users/Jason/Desktop/ASNEmbeddedRepo/c_board_repo/libraries/src/CAN_Core.c:102:6:_CAN_Init_Buses	4
